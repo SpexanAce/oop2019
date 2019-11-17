@@ -1,0 +1,7 @@
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\obj\Debug\Week1Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\obj\Debug\Week1Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\bin\Debug\Week1Exercise.exe.config
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\bin\Debug\Week1Exercise.exe
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\bin\Debug\Week1Exercise.pdb
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\obj\Debug\Week1Exercise.exe
+C:\Users\Spexan\Documents\Systemis\Inlämningar\Week1Exercise\Week1Exercise\obj\Debug\Week1Exercise.pdb
